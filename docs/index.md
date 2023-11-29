@@ -10,11 +10,8 @@ hide:
 
 *:fontawesome-solid-inbox: Work Email: [hz3496 [at] nyu [dot] edu](mailto:hz3496@nyu.edu)*
 
-*:fontawesome-solid-inbox: Personal Email: [zhaohexu2001 [at] gmail [dot] com](mailto:zhaohexu2001@gmail.com)*
 
-
-
-<span style=font-size:2em;">[:fontawesome-solid-envelope:](mailto:hz3496@nyu.edu) [:academicons-dblp:](https://dblp.org/pid/293/9714.html) [:fontawesome-brands-github:](https://github.com/TarzanZhao) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/hexu-zhao-203304244/) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/zhao-he-xu-61)</span>
+<span style=font-size:2em;">[:fontawesome-solid-envelope:](mailto:hz3496@nyu.edu) [:academicons-google-scholar:](https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en) [:academicons-dblp:](https://dblp.org/pid/293/9714.html) [:fontawesome-brands-github:](https://github.com/TarzanZhao) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/hexu-zhao-203304244/) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/zhao-he-xu-61)</span>
 
 ## Bio
 
