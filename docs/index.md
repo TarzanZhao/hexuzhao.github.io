@@ -4,31 +4,21 @@ hide:
   - toc
 ---
 
-# Xichen Pan ![Image title](images/por.jpg){ align=right style="width:7.5em; margin-left: 7.5em; margin-top: 0.5em; border-radius: 1em;"}
+# Hexu Zhao ![正装照-低分辨jpeg](https://github.com/TarzanZhao/TarzanZhao.github.io/assets/45677459/8477c8f4-a908-46ba-8b7a-a622026d5402){ align=right style="width:7.5em; margin-left: 7.5em; margin-top: 0.5em; border-radius: 1em;"}
 
 *:fontawesome-solid-building: Office: [424, 60 5th Ave, New York, NY 10011](https://maps.app.goo.gl/N7m2fM5EbM3TToB79)*
 
-*:fontawesome-solid-inbox: Work Email: [xichenpan [at] nyu [dot] edu](mailto:xichenpan@nyu.edu)*
+*:fontawesome-solid-inbox: Work Email: [hz3496 [at] nyu [dot] edu](mailto:hz3496@nyu.edu)*
 
-*:fontawesome-solid-inbox: Personal Email: [xcpan [dot] mail [at] gmail [dot] com](mailto:xcpan.mail@gmail.com)*
+*:fontawesome-solid-inbox: Personal Email: [zhaohexu2001 [at] gmail [dot] com](mailto:zhaohexu2001@gmail.com)*
 
-<span style=font-size:2em;">[:fontawesome-solid-envelope:](mailto:xichenpan@nyu.edu) [:academicons-google-scholar:](https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en) [:academicons-semantic-scholar:](https://www.semanticscholar.org/author/Xichen-Pan/2158877024) [:academicons-dblp:](https://dblp.org/pid/317/0180.html) [:fontawesome-brands-github:](https://github.com/xichenpan) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/xichenpan/) [:fontawesome-brands-twitter:](https://twitter.com/xichen_pan) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/xichenpan)</span>
+
+
+<span style=font-size:2em;">[:fontawesome-solid-envelope:](mailto:hz3496@nyu.edu) [:academicons-dblp:](https://dblp.org/pid/293/9714.html) [:fontawesome-brands-github:](https://github.com/TarzanZhao) [:fontawesome-brands-linkedin:](https://www.linkedin.com/in/hexu-zhao-203304244/) [:fontawesome-brands-zhihu:](https://www.zhihu.com/people/zhao-he-xu-61)</span>
 
 ## Bio
 
-I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Saining Xie](https://www.sainingxie.com/). My research interest lies in multimodal learning with a focus on vision, language, and audio modalities. I am especially interested in multimodal representation learning and multimodal generative models. I also interned at Microsoft Research Asia (2022-2023 with Dr. [Li Dong](http://dong.li/)), Alibaba Group (2022 with Dr. [Pengda Qin](https://scholar.google.com/citations?user=n7bubTwAAAAJ&hl=en)), and Horizon Robotics (2021-2022 with [Yichen Gong](https://scholar.google.com/citations?user=e3bTLycAAAAJ&hl=en)). Previously, I obtained my bachelor’s degree in Computer Science from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) and won the [Best Thesis Award](http://www.jwc.sjtu.edu.cn/info/1258/11735.htm). I was fortunately advised by and maintain a close connection with Prof. [Zhouhan Lin](https://hantek.github.io/) at SJTU.
-
-## News
-
-[10/2023] :beach_with_umbrella: Our paper was accepted by WACV 2024, check it out [here](http://arxiv.org/abs/2211.10950).
-
-[09/2023] :party_popper: Excited to start my CS Ph.D. at [NYU Courant](https://cs.nyu.edu/home/index.html) advised by Prof. [Saining Xie](https://www.sainingxie.com/).
-
-[12/2022] Glad to work with Dr. [Li Dong](http://dong.li/) and Dr. [Furu Wei](https://thegenerality.com/) at Microsoft Research Asia for the upcoming year, leading up to Fall 2023.
-
-[06/2022] My bachelor thesis won Best Thesis Award in SJTU! Thanks my advisor Prof. [Zhouhan Lin](https://hantek.github.io/), checkout the [honor roll](https://sjcg.jwc.sjtu.edu.cn/).
-
-[02/2022] Our paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) Main Conference, check out [full paper](https://aclanthology.org/2022.acl-long.308/).
+I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.nyu.edu/home/index.html), advised by Prof. [Jinyang Li](https://www.news.cs.nyu.edu/~jinyang/) and Prof. [Aurojit Panda](https://cs.nyu.edu/~apanda/). My research interest lies in Machine Learning System with a focus on distributed MLsys. As for my taste of research problem, I want to build system to scale up very new but promising ML models and algorithms. Previously, I obtained my bachelor’s degree in 2023 from Honored Yao Class, Tsinghua University. I was a Research Assistant at MBZUAI advised by Prof. [Eric Xing](http://www.cs.cmu.edu/~epxing/) and Prof. [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/) in Spring 2022. 
 
 ## Education
 
@@ -36,9 +26,9 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 *Sept. 2023 -- Present*
 
-***Ph.D. in Computer Science**, advised by Prof. [Saining Xie](https://sainingxie.com/)*
+***Ph.D. in Computer Science**, advised by Prof. [Jinyang Li](https://www.news.cs.nyu.edu/~jinyang/) and Prof. [Aurojit Panda](https://cs.nyu.edu/~apanda/)*
 
-### Shanghai Jiao Tong University![Image title](images/favicon.png){ align=right style="height:6em; border-radius: 0.5em;"}
+### Tsinghua University![Image title](https://github.com/TarzanZhao/TarzanZhao.github.io/assets/45677459/cdd93597-e2c5-472f-bfb2-7e0fb20961b7){ align=right style="height:6em; border-radius: 0.5em;"}
 
 *Sept. 2018 -- June 2022*
 
