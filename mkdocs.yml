@@ -1,6 +1,6 @@
-site_name: "Xichen Pan's Homepage"
-site_author: 'Xichen Pan'
-copyright: '&copy; 2022-2023 Xichen Pan'
+site_name: "Hexu Zhao's Homepage"
+site_author: 'Hexu Zhao'
+copyright: '&copy; 2022-2023 Hexu Zhao'
 theme:
   name: material
   custom_dir: overrides
@@ -31,21 +31,21 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/solid/envelope 
-      link: mailto:xcpan.mail@gmail.com
+      link: mailto:hz3496@nyu.edu
     - icon: academicons/google-scholar
-      link: https://scholar.google.com/citations?user=9wh9VXIAAAAJ&hl=en
+      link: https://scholar.google.com/citations?user=ylKFMAkAAAAJ&hl=en
     - icon: academicons/semantic-scholar
       link: https://www.semanticscholar.org/author/Xichen-Pan/2158877024
     - icon: academicons/dblp
-      link: https://dblp.org/pid/317/0180.html
+      link: https://dblp.org/pid/293/9714.html
     - icon: fontawesome/brands/github 
-      link: https://github.com/xichenpan
+      link: https://github.com/tarzanzhao
     - icon: fontawesome/brands/linkedin 
-      link: https://www.linkedin.com/in/xichenpan/
+      link: https://www.linkedin.com/in/hexu-zhao-203304244/
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/xichen_pan
     - icon: fontawesome/brands/zhihu 
-      link: https://www.zhihu.com/people/xichenpan
+      link: https://www.zhihu.com/people/zhao-he-xu-61
   analytics:
     provider: google
     property: G-KBQPT9Q9MJ
