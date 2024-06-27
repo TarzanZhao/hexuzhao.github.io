@@ -19,7 +19,7 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 ## News
 
-* I've accepted an internship with the Microsoft DeepSpeed Team and will be in Seattle from May 27th to August 28th. Let's talk in person if you're interested and in the area then!
+[03/2024] I will join Microsoft DeepSpeed Team as a Research Scientist Intern in 2024 Summer. See you in Seattle!
 
 ## Education
 
@@ -35,7 +35,21 @@ I am a first-year Ph.D. student of Computer Science at [NYU Courant](https://cs.
 
 ***B.Eng. in Computer Science (Honored Yao Class)***
 
+## Experience
+
+**Microsoft Deepspeed**![Image title](images/ms.png){ align=right style="height:5em; border-radius: 0.5em;"}
+
+*May. 2024 – Aug. 2024*
+
+*Research Scientist Intern*
+
 ## Publications
+
+**On Scaling Up 3D Gaussian Splatting Training**
+
+<u>Hexu Zhao</u>, \*Haoyang Weng, \*Daohan Lu, Ang Li, Jinyang Li, Aurojit Panda, Saining Xie
+
+*Arxiv Version*&nbsp;&nbsp;[:academicons-arxiv: arXiv](https://arxiv.org/abs/2406.18533)&nbsp;&nbsp;
 
 **On Optimizing the Communication of Model Parallelism**
 
