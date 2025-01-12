@@ -21,6 +21,8 @@ I am a Ph.D. student of Computer Science at [NYU Courant](https://cs.nyu.edu/hom
 
 [03/2024] I will join Microsoft DeepSpeed Team as a Research Scientist Intern in 2024 Summer. See you in Seattle!
 
+[01/2025] I will join NVIDIA Toronto AI Lab as a Research Scientist Intern in 2025 Summer. See you in Santa Carla!
+
 ## Education
 
 ### New York University Courant Institute![Image title](images/nyu.png){ align=right style="height:6em; border-radius: 0.5em;"}
